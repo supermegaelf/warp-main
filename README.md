@@ -1,5 +1,5 @@
 ### Installation:
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/supermegaelf/warp/main/warp.sh)
+bash <(curl -s https://raw.githubusercontent.com/supermegaelf/warp-main/main/warp-main.sh)
 ```
